@@ -2,7 +2,7 @@
 
 [<img src="https://i.imgur.com/weIi9PW.png">](https://www.google.com/maps/d/edit?mid=1grbvr9Ic-qJ-LTC9DHqpdzi2M-mtxl4&usp=sharing)
 
-This file details the structure of the documentation surrounding Fairly AI's Global AI Regulations Map. 
+This file details the structure of the documentation surrounding Fairly's Global AI Regulations Map. 
 
 ## The Map
 
