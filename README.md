@@ -21,3 +21,9 @@ The map captures the current state of AI and AI-adjacent regulation around the w
 - Blue: regulation that is passed but is not currently active.
 - Yellow: proposed regulation.
 - Red: a policy position or national strategy; not a regulation per se but signals interest in AI.
+
+## Improvements
+If you have any proposed corrections or suggestions, please add an [issue](https://github.com/fairlyAI/global-ai-regulations-map/issues) in the issues tab.
+
+## Contact
+Reach us at info@fairly.ai
