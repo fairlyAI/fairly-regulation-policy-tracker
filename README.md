@@ -1,10 +1,12 @@
-# Fairly's Global AI Regulations Map
+# Fairly's Regulation and Policy Tracker
 
-[<img src="https://i.imgur.com/weIi9PW.png">](https://www.google.com/maps/d/edit?mid=1grbvr9Ic-qJ-LTC9DHqpdzi2M-mtxl4&usp=sharing)
 
-This file details the structure of the documentation surrounding Fairly's Global AI Regulations Map. 
+
+This file outlines the work we do for regulation and policy tracking.
 
 ## The Map
+
+[<img src="https://i.imgur.com/weIi9PW.png">](https://www.google.com/maps/d/edit?mid=1grbvr9Ic-qJ-LTC9DHqpdzi2M-mtxl4&usp=sharing)
 
 The map captures the current state of AI and AI-adjacent regulation around the world. It divides regulations into the following categories:
 - General: regulations that generally to pertain to AI.
@@ -16,14 +18,14 @@ The map captures the current state of AI and AI-adjacent regulation around the w
 - Finance and Insurance: AI and automated model-related regulations for the finance and insurance industries.
 - Other: any other AI regulations.
 
-## Color Legend
+### Color Legend
 - Green: regulation that is currently active.
 - Blue: regulation that is passed but is not currently active.
 - Yellow: proposed regulation.
 - Red: a policy position or national strategy; not a regulation per se but signals interest in AI.
 
 ## Improvements
-If you have any proposed corrections or suggestions, please add an [issue](https://github.com/fairlyAI/global-ai-regulations-map/issues) in the issues tab.
+If you have any proposed corrections or suggestions, please add an [issue](https://github.com/fairlyAI/fairly-regulation-policy-tracker/issues) in the issues tab.
 
 ## Contact
 Reach us at info@fairly.ai
