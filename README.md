@@ -22,6 +22,9 @@ The map captures the current state of AI and AI-adjacent regulation around the w
 - Yellow: proposed regulation.
 - Red: a policy position or national strategy; not a regulation per se but signals interest in AI.
 
+## The Policy and Framework Tracker
+
+
 ## Improvements
 If you have any proposed corrections or suggestions, please add an [issue](https://github.com/fairlyAI/fairly-regulation-policy-tracker/issues) in the issues tab.
 
