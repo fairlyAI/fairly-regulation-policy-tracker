@@ -1,7 +1,5 @@
 # Fairly's Regulation and Policy Tracker
 
-
-
 This file outlines the work we do for regulation and policy tracking.
 
 ## The Map
